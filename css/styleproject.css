@@ -1,0 +1,32 @@
+.styleproject {
+  margin-top: 80px;
+  margin-right: 87px;
+  margin-left: 10px;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 33px;
+  color: #282828;
+}
+.styleproject__description_1 {
+  margin-top: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #282828;
+}
+.styleproject__description_2 {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #282828;
+}
+.styleproject__image {
+  margin-top: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
